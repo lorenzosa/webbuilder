@@ -1,0 +1,80 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="enzosweb.com" resolutions="1x" timestamp="1505937368937">
+  <folder name="css">
+    <file name="site_global.css" crc="248134156"/>
+    <file name="index.css" crc="128358688" ref="index"/>
+    <file name="iefonts_index.css" crc="4030726646" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u3123.php" crc="4027616915" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3958126024" ref="index"/>
+    <file name="clouds.png" crc="3839039301" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laptop.png" crc="3762005207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pincel.png" crc="4017909517" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="renovacion.png" crc="170284991" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pc.png" crc="3879772680" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paints.png" crc="12584292" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="disenoweb.jpg" crc="4254920176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slit shadow 2 sharp.png" crc="510555609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="top.png" crc="4030272034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="celulares-u2826.png" crc="4286397796" ref="index"/>
+    <file name="diseno-web-u2854.png" crc="168242527" ref="index"/>
+    <file name="buscadores-u2864.png" crc="3988879269" ref="index"/>
+    <file name="logo.png" crc="339990762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2179-4.png" crc="16523291" ref="index"/>
+    <file name="u2183-4.png" crc="26522883" ref="index"/>
+    <file name="u2192-4.png" crc="327871022" ref="index"/>
+    <file name="u2195-4.png" crc="4160265761" ref="index"/>
+    <file name="u2198-4.png" crc="3763735138" ref="index"/>
+    <file name="u2201-6.png" crc="103388071" ref="index"/>
+    <file name="telefono.png" crc="3992019524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail.png" crc="4117332297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faces.png" crc="328599534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="477248760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="84435826" seo="true" mt="1505936702550" redirect="true"/>
+</manifest>
